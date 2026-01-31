@@ -14,3 +14,14 @@ print(len(y)) # Output: 3
 
 z = range(8, 20, 3)
 print(len(z)) # Output: 4
+
+//new tuple code
+text = 'Python'
+print(len(text))  # Output: 6
+
+person = {"name": 'Amanda', "age": 21}
+print(len(person))  # Output: 2
+
+animals = {'tiger', 'lion', 'tiger', 'cat'}
+print(len(animals))  # Output: 3
+
