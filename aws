@@ -3,3 +3,14 @@ languages = ['Python', 'Java', 'JavaScript']
 length = len(languages)
 
 print(length)  # Output: 3
+
+
+
+x = [1, 2, 3]
+print(len(x)) # Output: 3
+
+y = (1, 2, 3)
+print(len(y)) # Output: 3
+
+z = range(8, 20, 3)
+print(len(z)) # Output: 4
