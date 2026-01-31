@@ -42,3 +42,5 @@ print(len(session1))  # Output: 0
 session2 = Session(6)
 print(len(session2))  # Output: 6
 >>>>>>> Stashed changes
+
+Adding data for fecth and pulll
